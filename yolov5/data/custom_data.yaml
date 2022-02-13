@@ -1,0 +1,7 @@
+train: ../train_data/images/train/ #952 images
+val: ../train_data/images/val/ # 126 images
+
+# Classes
+nc: 5 # number of classes
+names: ["Knife", "Gun", "Pistol", "Hockey Stick", "Chapati Knife"] # class names
+
